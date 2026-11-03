@@ -23,11 +23,19 @@ Turns out those two interests work surprisingly well together.
 
 **Other interests:** Application architecture, system reliability, troubleshooting, technical mentoring, and Agile/Scrum facilitation
 
-I'm particularly drawn to technologies that make complex systems simpler to maintain and easier for people to use.
+## 🥚 Don't be afraid of breaking eggs.
+
+That's something I regularly tell fellow developers when we're exploring unfamiliar technologies.
+
+Experiment. Challenge assumptions. Try something different. Break things in environments where it's safe to do so—and learn why they broke.
+
+Some of the most valuable engineering lessons come from discovering that your first approach wasn't quite right.
+
+I believe curiosity should be encouraged, mistakes should become learning opportunities, and experience should make us more willing to explore—not less.
+
+Of course, there's a difference between breaking eggs in development and making an omelet out of production. 😉
 
 ## 🧠 How I approach engineering
-
-A few principles have stayed with me over the years:
 
 - **Solve the problem, not just the symptom.** Understanding why something fails is often more valuable than making the error disappear.
 - **Build for the people who come after you.** Maintainable software, clear documentation, and thoughtful architecture matter.
