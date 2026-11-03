@@ -49,7 +49,7 @@ When I'm not working with computer keyboards, there's a good chance I'm sitting 
 
 I'm also a pianist, songwriter, and independent music producer. Music production and software engineering have more in common than they initially appear to—both involve experimentation, problem-solving, and occasionally wondering why something sounded better yesterday.
 
-I also enjoy chess, retro arcade games, and the occasional opportunity to appreciate an exceptionally bad programming joke.
+I also enjoy retro arcade games, chess, and the occasional opportunity to appreciate an exceptionally bad programming joke.
 
 ## 💬 A final thought
 
