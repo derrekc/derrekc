@@ -13,7 +13,7 @@ Turns out those two interests work surprisingly well together.
 
 ## 🔧 What I work with
 
-**Languages:** Go, Perl, JavaScript, PHP, SQL, Bash, C/C++
+**Languages:** Go, Perl, JavaScript, PHP, SQL, Bash
 
 **Application development:** REST APIs, backend services, data integration, Drupal, Dancer2
 
